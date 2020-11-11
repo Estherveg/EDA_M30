@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<HistoricoUsuarios>
+
+<FechaActualizacion><campo><nombre>Fecha de actualización</nombre><valor>24/10/2020 8:51:10</valor></campo></FechaActualizacion>
+
+<Historico>
+<Fecha>01/01/2013</Fecha>
+<UsuariosCalle30>859033 veh</UsuariosCalle30>
+<vehxKmTotales>5632074 veh x Km</vehxKmTotales>
+<vehxKmRamales>1417188 veh x Km</vehxKmRamales>
+<velocidadMedia>69.45 Km/hora</velocidadMedia>
+<distanciaMediaRecorrida>6556 metros</distanciaMediaRecorrida>
+<tiempoMediodeRecorrido>5 min. 40 seg.</tiempoMediodeRecorrido>
+</Historico>
+
+<Historico>
+<Fecha>01/01/2014</Fecha>
+<UsuariosCalle30>785906 veh</UsuariosCalle30>
+<vehxKmTotales>5238075 veh x Km</vehxKmTotales>
+<vehxKmRamales>1303128 veh x Km</vehxKmRamales>
+<velocidadMedia>69.41 Km/hora</velocidadMedia>
+<distanciaMediaRecorrida>6665 metros</distanciaMediaRecorrida>
+<tiempoMediodeRecorrido>5 min. 46 seg.</tiempoMediodeRecorrido>
+</Historico>
+
+</HistoricoUsuarios>
